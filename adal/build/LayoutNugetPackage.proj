@@ -183,7 +183,7 @@
   </ItemGroup>
 
   <ItemGroup Label="Source files">
-    <SourceCode Include="..\adal\src\**\*.*" />
+    <SourceCode Include="..\src\**\*.*" />
     <SourceCode Remove="..\**\bin\**\*.*" />
     <SourceCode Remove="..\**\obj\**\*.*" />
   </ItemGroup>
